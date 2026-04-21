@@ -6,6 +6,6 @@
 
 | Платформа | Ссылка | Версия |
 |-----------|--------|--------|
-| 🪟 Windows | [Скачать VOX Setup](https://github.com/yourname/vox-releases/releases/latest/download/VOX-Setup.exe)
+| 🪟 Windows | [Скачать VOX Setup](https://github.com/Dremaoffc/vox-releases/releases/download/v1.2.0/VOX-Setup-1.0.0.exe)
 
 ### Прямые ссылки на последнюю версию
